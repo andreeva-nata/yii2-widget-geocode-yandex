@@ -1,6 +1,8 @@
 {
     "name": "geocode-yandex/geocode-yandex",
     "description": "geocoder widget",
+    "version": "1.0.0",
+    "type": "yii2-extension",
     "require": {
         "vitalik74/yii2-geocode-yandex": "^1.0",
         "php": ">=7.1.0"
