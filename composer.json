@@ -1,0 +1,15 @@
+{
+    "name": "geocode-yandex/geocode-yandex",
+    "description": "geocoder widget",
+    "require": {
+        "vitalik74/yii2-geocode-yandex": "^1.0",
+        "php": ">=7.1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Natalya Andreeva",
+            "email": "lukaschova.nata@yandex.ru"
+        }
+    ]
+}
