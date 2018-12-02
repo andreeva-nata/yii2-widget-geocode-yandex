@@ -1,5 +1,5 @@
 {
-    "name": "geocode-yandex/geocode-yandex",
+    "name": "andreeva-nata/yii2-widget-geocode-yandex",
     "description": "geocoder widget",
     "version": "1.0.0",
     "type": "yii2-extension",
